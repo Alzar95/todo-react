@@ -1,0 +1,26 @@
+.todo {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.todo-title {
+    text-align: center;
+}
+
+.todo-add {
+    display: flex;
+}
+
+.todo-add-field {
+    width: 100%;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.todo-add-button {
+    padding: 0 15px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background: green;
+}

@@ -1,0 +1,9 @@
+{
+  "apiPrefix": "http://localhost:3200",
+  "serverPort": "3200",
+  "db":{
+    "name": "todobase",
+    "host": "localhost",
+    "port": 27017
+  }
+}

@@ -1,0 +1,44 @@
+.todo-edit {
+    position: absolute;
+    width: 30%;
+    height: 140px;
+    top: calc(50% - 125px);
+    left: 35%;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #fff5f5;
+}
+
+.todo-edit-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.todo-edit-input {
+    margin-top: 15px;
+}
+
+.todo-edit-btn {
+    margin-top: 15px;
+}
+
+.todo-edit-btn-edit {
+    height: 27px;
+    border: none;
+    border-radius: 5px;
+    padding: 0 10px;
+    margin-right: 15px;
+    color: white;
+    background: deepskyblue;
+}
+
+.todo-edit-btn-close {
+    height: 27px;
+    border: none;
+    border-radius: 5px;
+    padding: 0 10px;
+    color: white;
+    background: red;
+}
